@@ -5,6 +5,11 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.2",
-    "multer": "^1.4.5-lts.2"
-  }
+    "multer": "^1.4.5-lts.2",
+    "scripts": "^0.1.0"
+  },
+  "scripts": {
+  "start": "node index.js"
+}
+
 }
